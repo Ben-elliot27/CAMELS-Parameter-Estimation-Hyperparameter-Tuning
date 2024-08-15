@@ -71,14 +71,17 @@ The dataset includes several astrophysical fields:
     - Developed a deep learning model using PyTorch for image-to-value regression.
     - Conducted extensive hyperparameter tuning to optimize model performance.
     - Evaluated the models based on both validation loss and a custom cost function to balance model size and accuracy.
-<img alt="HyperParameterTuning" src="https://github.com/user-attachments/assets/f3d8fe4c-1b54-48e4-8708-a8df95550b0c" width=700px></img>
-<img alt="ModelArchitecture" src="https://github.com/user-attachments/assets/38f92a0d-6a01-4248-8a89-079ff6eb961b" width=700px></img>
+  
+   
+    <img alt="HyperParameterTuning" src="https://github.com/user-attachments/assets/f3d8fe4c-1b54-48e4-8708-a8df95550b0c" width=700px></img>
+    <img alt="ModelArchitecture" src="https://github.com/user-attachments/assets/38f92a0d-6a01-4248-8a89-079ff6eb961b" width=700px></img>
 
 
 3. **Multi-Map Training**:
     - Experimented with training models on combinations of multiple maps, finding that including additional maps as channels yielded better results.
-<img alt="ExampleTrainingRun" src="https://github.com/user-attachments/assets/1c9079d3-3741-4f51-b7ad-e1c3f9c7d21e" width=700px></img>
-<img alt="MultipleMapsComparison" src="https://github.com/user-attachments/assets/ccbb0ebb-3cbb-44ae-8e5d-c86820fc6728" width=700px></img>
+  
+    <img alt="ExampleTrainingRun" src="https://github.com/user-attachments/assets/1c9079d3-3741-4f51-b7ad-e1c3f9c7d21e" width=700px></img>
+    <img alt="MultipleMapsComparison" src="https://github.com/user-attachments/assets/ccbb0ebb-3cbb-44ae-8e5d-c86820fc6728" width=700px></img>
 
 
 ## Report Summary
