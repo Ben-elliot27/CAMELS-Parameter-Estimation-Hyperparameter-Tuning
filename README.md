@@ -30,7 +30,6 @@ The CAMELS Multifield Dataset is a vast simulated dataset designed for cosmology
 │   ├── ML_miniproj.synctex.gz
 │   ├── UCL.png
 ├── HyperTuing/...              # Pickle files used for saving data during runs
-├── multirun/...                # Pickle files used for saving data during runs
 └── README.md                   # This file
 ```
 
