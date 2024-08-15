@@ -160,7 +160,7 @@ The project demonstrates the effectiveness of using deep learning to predict cos
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
