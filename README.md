@@ -89,7 +89,7 @@ The dataset includes several astrophysical fields:
 
 
 
-The final report [ML_miniproj.pdf](./Report/ML_miniproject.pdf) provides a comprehensive overview of the project. It includes:
+The final report [ML_miniproj.pdf](Report/ML_miniproject.pdf) provides a comprehensive overview of the project. It includes:
 
 - **Introduction**: An overview of the problem and objectives.
 - **Data**: Description and preprocessing steps for the CAMELS dataset.
